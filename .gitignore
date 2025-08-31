@@ -1,0 +1,4 @@
+parson.o
+pslib.o
+spline_demo
+tinyspline.o
